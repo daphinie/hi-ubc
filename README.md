@@ -5,7 +5,6 @@ https://user-images.githubusercontent.com/67568792/147858540-694569b7-f0a9-46ed-
 
 # Built with
 * [React](https://reactjs.org/)
-* [Node.js](https://nodejs.org/)
 * [Mapbox API](https://docs.mapbox.com/api/overview/)
 * [Material UI](https://material-ui.com/)
 
